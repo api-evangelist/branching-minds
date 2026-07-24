@@ -1,0 +1,40 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.branchingminds.com/
+url: https://trust.branchingminds.com/
+certifications:
+- SOC 2 Type 2
+- NIST CSF
+- FERPA
+- COPPA
+- CCPA
+- B Corp
+- VPAT
+reports:
+- HIPAA Report
+- PCI DSS Report
+- Network Diagram
+policies:
+- Backup Policy
+- Data Classification Policy
+- Access Control Policy
+- Password Policy
+- Incident Response Policy
+- Business Continuity / Disaster Recovery Policy
+- Physical Security Policy
+- Vulnerability Management Policy
+- Encryption Policy
+- Acceptable Use Policy
+responsible_disclosure: listed under App Security within the trust portal (gated)
+subprocessors: https://www.branchingminds.com/subprocessors
+ai_policy: https://www.branchingminds.com/artificial-intelligence-ai-policy
+evidence:
+- source: https://trust.branchingminds.com/
+  keywords:
+  - soc 2 type 2
+  - nist csf
+  - ferpa
+  - coppa
+  - ccpa
+  - trust center

@@ -1,0 +1,27 @@
+# Branching Minds
+
+> Branching Minds is a K-12 education-technology company providing an MTSS (Multi-Tiered System of Supports) and RTI (Response to Intervention) software platform. It centralizes student data, intervention planning, progress monitoring, attendance, and behavior support for school districts, integrating with district SIS, universal screeners, and assessment tools via nightly data syncs. Branching Minds does not currently publish a public developer API; integration is handled through file upload, secure SFTP, and managed data connections.
+
+## Company
+- [Branching Minds home](https://branchingminds.com/): MTSS / RTI platform for K-12 school districts
+- [About Branching Minds](https://www.branchingminds.com/about-branchingminds-response-intervention-rti-mtss-software-solution): Company background and mission
+- [MTSS platform overview](https://www.branchingminds.com/mtss-platform-software-improve-academic-achievement): Product overview
+- [Integrations](https://www.branchingminds.com/integrations): SIS, screener, assessment, and behavior-tool data integrations
+
+## Docs & Support
+- [Help Center](https://help.branchingminds.com/): Product knowledge base and support articles
+- [Learning Center](https://www.branchingminds.com/learning-center): On-demand MTSS professional learning
+- [Blog / Resources](https://www.branchingminds.com/blog): MTSS/RTI articles and resources
+
+## Trust & Legal
+- [Trust Center](https://trust.branchingminds.com/): SOC 2 Type 2, NIST CSF, FERPA, COPPA, CCPA, HIPAA/PCI reports
+- [Privacy Policy](https://www.branchingminds.com/privacy-policy)
+- [Terms of Use](https://www.branchingminds.com/terms)
+- [Master Subscription Agreement](https://www.branchingminds.com/msa)
+- [Subprocessors](https://www.branchingminds.com/subprocessors)
+- [AI Policy](https://www.branchingminds.com/artificial-intelligence-ai-policy)
+- [Accessibility Statement](https://www.branchingminds.com/accessibility)
+
+## Account
+- [Application login](https://app.branchingminds.com/)
+- [Request a demo](https://www.branchingminds.com/demo)
