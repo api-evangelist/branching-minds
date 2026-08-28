@@ -8,6 +8,17 @@ description: Branching Minds is a K-12 education-technology company offering an 
   file uploader. Branching Minds does not currently publish a public developer API; integration is
   delivered as managed data connections rather than a self-serve API. The company is a Delaware
   public-benefit LLC and Certified B Corporation, backed by Techstars.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
