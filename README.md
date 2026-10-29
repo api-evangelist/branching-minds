@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Branching Minds is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Branching Minds is a K-12 education-technology company offering an MTSS (Multi-Tiered System of Supports) and RTI (Response to Intervention) software platform for school districts. The platform centralizes student data, intervention planning, progress monitoring, attendance, behavior support, and early-warning indicators in one place, and integrates with district SIS, universal screeners, and assessment tools through nightly data syncs, secure SFTP, and a guided file uploader. Branching Minds does not currently publish a public developer API; integration is delivered as managed data connections rather than a self-serve API. The company is a Delaware public-benefit LLC and Certified B Corporation, backed by Techstars.
 
-Backed by: techstars — https://branchingminds.com/
+**Areas:** Company · Education · EdTech · K-12 · MTSS · RTI · Student Data · Intervention · SIS Integration
+
+## Branching Minds on APIs.io
+
+Everything profiled for Branching Minds is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/branching-minds/](https://apis.io/providers/branching-minds/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Branching Minds Domain Security](https://apis.io/security/branching-minds/branching-minds-domain-security/)
+- [Branching Minds Trust Center](https://apis.io/security/branching-minds/branching-minds-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://branchingminds.com/)
+- [Documentation](https://help.branchingminds.com/)
+- [Pricing](https://www.branchingminds.com/demo)
+- [Support](https://help.branchingminds.com/)
+- [Blog](https://www.branchingminds.com/blog)
+- [Compliance](https://trust.branchingminds.com/)
+- [Terms of service](https://www.branchingminds.com/terms)
+- [Privacy policy](https://www.branchingminds.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 53.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/branching-minds/](https://apis.io/providers/branching-minds/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Branching Minds: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/branching-minds/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
